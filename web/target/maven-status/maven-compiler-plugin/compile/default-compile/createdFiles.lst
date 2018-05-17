@@ -1,0 +1,16 @@
+com\vintage\entity\BookExample$Criterion.class
+com\vintage\entity\LossesDetailExample$GeneratedCriteria.class
+com\vintage\utils\BuddhaUtil.class
+com\vintage\entity\LossesDetail.class
+com\vintage\controller\InterfaceController.class
+com\vintage\dao\BookMapper.class
+com\vintage\entity\LossesDetailExample$Criterion.class
+com\vintage\entity\BookExample$GeneratedCriteria.class
+com\vintage\controller\LossesDetailController.class
+com\vintage\entity\BookExample$Criteria.class
+com\vintage\entity\LossesDetailExample.class
+com\vintage\utils\BuddhaConstant.class
+com\vintage\entity\Book.class
+com\vintage\entity\BookExample.class
+com\vintage\entity\LossesDetailExample$Criteria.class
+com\vintage\dao\LossesDetailMapper.class
